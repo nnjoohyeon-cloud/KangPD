@@ -3,7 +3,7 @@ import { FadeIn } from "./fade-in"
 const stats = [
   { value: "480+", label: "프로젝트 진행" },
   { value: "190억+", label: "누적 GMV" },
-  { value: "1위", label: "출판·클래스 카테고리 PD" },
+  { value: "누적 1위", label: "출판·클래스 카테고리 PD" },
   { value: "50+", label: "억대 펀딩 경험" },
 ]
 
